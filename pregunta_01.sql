@@ -11,7 +11,7 @@
 --
 --  Escriba una consulta en SQL que devuelva la suma del campo c12.
 -- 
---  Rta/
+--  Rta=
 --     SUM(c12)
 --  0  15137.63
 --
