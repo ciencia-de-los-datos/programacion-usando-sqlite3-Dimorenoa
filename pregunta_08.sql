@@ -41,4 +41,4 @@
 --
 --  >>> Escriba su codigo a partir de este punto <<<
 --
-SELECT AVG(c21) FROM tbl2 GROUP BY strftime('%Y',c23);
+SELECT SUBSTR(c23,1,4) AS YEAR,ROUND(AVG(c21),6) FROM tbl2 GROUP BY SUBSTR (c23,1,4);
