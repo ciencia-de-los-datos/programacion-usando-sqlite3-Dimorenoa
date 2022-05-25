@@ -29,7 +29,7 @@
 --    c25 CHAR(5)
 --
 --  Escriba una consulta que compute el promedio
---  de la columna c21 de la tabla tbl2 por ano 
+--  de la columna c21 de la tabla tbl2 por año 
 --  (columna c23).
 --
 --  Rta/
